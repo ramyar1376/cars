@@ -1,0 +1,13 @@
+
+
+body{
+    direction: rtl;
+}
+#search{
+    background-image: linear-gradient( to right , rgb(136, 136, 143) , rgb(0, 217, 255));
+ 
+}
+label{
+    float: right;
+}
+
